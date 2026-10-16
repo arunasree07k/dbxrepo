@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Gender,Age,City,State,Country,RegistrationDate
+1001,John,Smith,Male,28,New York,NY,USA,2023-01-15
+1002,Emma,Johnson,Female,35,Chicago,IL,USA,2023-02-18
+1003,Liam,Williams,Male,42,Dallas,TX,USA,2023-03-10
+1004,Olivia,Brown,Female,30,Seattle,WA,USA,2023-04-22
+1005,Noah,Jones,Male,25,Miami,FL,USA,2023-05-12
+1006,Ava,Garcia,Female,39,Phoenix,AZ,USA,2023-06-08
+1007,James,Miller,Male,45,Boston,MA,USA,2023-07-01
+1008,Sophia,Davis,Female,29,Denver,CO,USA,2023-08-19
+1009,Benjamin,Martinez,Male,33,Atlanta,GA,USA,2023-09-09
+1010,Charlotte,Wilson,Female,27,San Diego,CA,USA,2023-10-14
